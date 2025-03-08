@@ -9,14 +9,16 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
+        Color.gray.opacity(0.3)
+            .overlay(
         VStack {
-            Image(systemName: "cat")
+            Image(systemName: "book")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Meow!")
+            Text("Deepwork")
         }
         .padding()
-        .background(Color.gray.opacity(0.2))
+        )
     }
 }
 

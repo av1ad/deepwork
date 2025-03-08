@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/aviad/Desktop/Coding/deepwork/.build/arm64-apple-macosx/debug/deepwork.build/master.swiftdeps"
+  },
+  "/Users/aviad/Desktop/Coding/deepwork/Sources/main.swift": {
+    "dependencies": "/Users/aviad/Desktop/Coding/deepwork/.build/arm64-apple-macosx/debug/deepwork.build/main.d",
+    "object": "/Users/aviad/Desktop/Coding/deepwork/.build/arm64-apple-macosx/debug/deepwork.build/main.swift.o",
+    "swiftmodule": "/Users/aviad/Desktop/Coding/deepwork/.build/arm64-apple-macosx/debug/deepwork.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/aviad/Desktop/Coding/deepwork/.build/arm64-apple-macosx/debug/deepwork.build/main.swiftdeps"
+  }
+}
