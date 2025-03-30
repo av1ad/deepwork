@@ -6,3 +6,16 @@
 //
 
 import SwiftUI
+
+
+struct ViewContent: View {
+    var body: some View {
+        Button("Start Timer") {
+            print("Timer started!")
+        }
+    }
+}
+
+#Preview {
+    ViewContent()
+}
